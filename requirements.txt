@@ -32,7 +32,7 @@ grpcio==1.51.1
 grpcio-status==1.51.1
 httplib2==0.21.0
 idna==3.4
-ipykernel==6.19.4
+ipykernel==6.16.2
 ipython==8.8.0
 itsdangerous==2.1.2
 jedi==0.18.2
